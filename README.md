@@ -2,7 +2,8 @@
 
 This project demonstrates an end-to-end modern data pipeline to transform Netflix CSV data into analytics-ready tables using **Amazon S3**, **Snowflake**, and **dbt**, with visualizations powered by **Power BI**, **Looker Studio**, and **Tableau**. It follows a layered architecture with raw, staging, and serving layers to ensure clean, testable, and modular data transformations.
 
-![Architecture Diagram](./your-image-file.png)
+<img width="907" alt="Architecture" src="https://github.com/user-attachments/assets/dd9cf6c9-97db-4b1b-a8cd-c74d3464c8fd" />
+
 
 
 ## 🔧 Tech Stack
